@@ -30,7 +30,7 @@ For a manual install get this package:
 
 Install the package:
 
-    python setup.py install
+    sudo python3 setup.py install
 
 #### Installation notes
 
