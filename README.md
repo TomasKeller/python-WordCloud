@@ -26,7 +26,7 @@ For a manual install get this package:
     wget https://github.com/amueller/word_cloud/archive/master.zip
     unzip master.zip
     rm master.zip
-    cd word_cloud-master
+    cd word_cloud-main
 
 Install the package:
 
